@@ -490,39 +490,39 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@getpara/core-sdk@npm:2.0.0-alpha.51":
-  version: 2.0.0-alpha.51
-  resolution: "@getpara/core-sdk@npm:2.0.0-alpha.51"
+"@getpara/core-sdk@npm:2.0.0-alpha.52":
+  version: 2.0.0-alpha.52
+  resolution: "@getpara/core-sdk@npm:2.0.0-alpha.52"
   dependencies:
     "@celo/utils": "npm:^8.0.2"
     "@cosmjs/encoding": "npm:^0.32.4"
     "@ethereumjs/util": "npm:^9.1.0"
-    "@getpara/user-management-client": "npm:2.0.0-alpha.51"
+    "@getpara/user-management-client": "npm:2.0.0-alpha.52"
     "@noble/hashes": "npm:^1.5.0"
     base64url: "npm:^3.0.1"
     libphonenumber-js: "npm:^1.11.7"
     node-forge: "npm:^1.3.1"
     uuid: "npm:^11.1.0"
-  checksum: 10c0/b933c4ee1d3adde19d7e3df7b4cbdc96751cfbbe008a7e24cdfb6323059aae3f0f04e4b235e1073477e5bf48a31efe2f119ce3b4836038d81af09c3350085c5d
+  checksum: 10c0/c10923a49cd8684b39cb081b81c9c0f75bda825354b5c8bd2966e2c8361402354de641da9947bce3c5d81dc5ac8e30c70bd5180d8904d247097bfe99141ce256
   languageName: node
   linkType: hard
 
-"@getpara/user-management-client@npm:2.0.0-alpha.51":
-  version: 2.0.0-alpha.51
-  resolution: "@getpara/user-management-client@npm:2.0.0-alpha.51"
+"@getpara/user-management-client@npm:2.0.0-alpha.52":
+  version: 2.0.0-alpha.52
+  resolution: "@getpara/user-management-client@npm:2.0.0-alpha.52"
   dependencies:
     axios: "npm:^1.8.4"
     libphonenumber-js: "npm:^1.11.7"
-  checksum: 10c0/5d898f560ded18537c83c4435db2396c115b086bb6e0c365e9c62ce0a1f2b49e24c3104ad7d3bd9aea58f3afe0bba4f917b5604b42a03eda82894dbb3bfdeeeb
+  checksum: 10c0/22312eac2c4ef4cd916165c24fd45f414f0d3c1dc443060da29a96b4eef940f793202e4a4c33f3eee92b02b7e6f6aeda707f8485a1b42c2378488215a0c5cd9a
   languageName: node
   linkType: hard
 
-"@getpara/web-sdk@npm:2.0.0-alpha.51":
-  version: 2.0.0-alpha.51
-  resolution: "@getpara/web-sdk@npm:2.0.0-alpha.51"
+"@getpara/web-sdk@npm:2.0.0-alpha.52":
+  version: 2.0.0-alpha.52
+  resolution: "@getpara/web-sdk@npm:2.0.0-alpha.52"
   dependencies:
-    "@getpara/core-sdk": "npm:2.0.0-alpha.51"
-    "@getpara/user-management-client": "npm:2.0.0-alpha.51"
+    "@getpara/core-sdk": "npm:2.0.0-alpha.52"
+    "@getpara/user-management-client": "npm:2.0.0-alpha.52"
     base64url: "npm:^3.0.1"
     buffer: "npm:6.0.3"
     cbor-web: "npm:^9.0.2"
@@ -533,7 +533,7 @@ __metadata:
   peerDependenciesMeta:
     "@farcaster/miniapp-sdk":
       optional: true
-  checksum: 10c0/2ef4049161a7d50f46a1f00a20dc32a6147829a1ba25517d7a4ab4d15369eb23fdb49772a914bfa80fe7671b211b2207942b61af2fa5a40773b02ec8bbf2b386
+  checksum: 10c0/3620b9abe7812e22ee5895140df8c9a3ccd7d71697e07eeca699cfb92ddc9a78e750f9eaec800425a0231c64ae4dd79829baa3ec8d069f720ea320e355350eea
   languageName: node
   linkType: hard
 
@@ -1750,7 +1750,7 @@ __metadata:
   resolution: "custom-phone-auth-nextjs@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.29.0"
-    "@getpara/web-sdk": "npm:2.0.0-alpha.51"
+    "@getpara/web-sdk": "npm:2.0.0-alpha.52"
     "@tailwindcss/postcss": "npm:^4.1.10"
     "@tanstack/react-query": "npm:5.81.2"
     "@types/node": "npm:^20"
